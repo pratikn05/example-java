@@ -1,1 +1,5 @@
- Hi , this is first line
+ Hi , 
+to edit webhook ,
+we need to go to repo settings, add webhook,
+in url (jenkins-url/github-webhook/)
+and select app/json, and just push everything radio button.
